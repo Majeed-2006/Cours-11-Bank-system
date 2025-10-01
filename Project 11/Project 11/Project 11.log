@@ -1,0 +1,44 @@
+﻿  Cours 11.cpp
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(25,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(69,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(98,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(303,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(342,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(455,14): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(459,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsString.h(480,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsDate.h(1114,28): warning C4101: 'DiffYears': unreferenced local variable
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsUtil.h(109,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsUtil.h(147,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsUtil.h(151,13): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsUtil.h(350,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+C:\Users\majeed\source\repos\Project 11\Project 11\clsUtil.h(393,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Cours%2011.cpp')
+  
+  Project 11.vcxproj -> C:\Users\majeed\source\repos\Project 11\x64\Debug\cours 11.exe

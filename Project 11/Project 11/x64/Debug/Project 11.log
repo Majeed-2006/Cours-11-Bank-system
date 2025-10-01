@@ -1,0 +1,2 @@
+﻿Cours 11.obj : error LNK2005: "class clsUser CurrentUser" (?CurrentUser@@3VclsUser@@A) already defined in clsDeletClientScreen.obj
+C:\Users\majeed\source\repos\Project 11\x64\Debug\cours 11.exe : fatal error LNK1169: one or more multiply defined symbols found

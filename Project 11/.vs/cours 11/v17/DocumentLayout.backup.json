@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\majeed\\source\\repos\\Project 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeletClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsDeletClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Cours 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\Cours 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:Project 11\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|C:\\Users\\majeed\\source\\repos\\Project 11\\.vs\\cours 11\\FileContentIndex\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A8399A0-7BA7-4142-A5CD-6759C4DC130F}|Project 11\\Project 11.vcxproj|solutionrelative:.vs\\cours 11\\FileContentIndex\\Clients.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cours 11.cpp",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Cours 11.cpp",
+              "RelativeDocumentMoniker": "Project 11\\Cours 11.cpp",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Cours 11.cpp",
+              "RelativeToolTip": "Project 11\\Cours 11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T18:38:20.587Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsLoginScreen.h",
+              "RelativeToolTip": "Project 11\\clsLoginScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T14:49:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsScreen.h",
+              "RelativeToolTip": "Project 11\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T19:15:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Project 11\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T04:48:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDeletClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeletClientScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsDeletClientScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDeletClientScreen.h",
+              "RelativeToolTip": "Project 11\\clsDeletClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T05:00:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Global.h",
+              "RelativeDocumentMoniker": "Project 11\\Global.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Global.h",
+              "RelativeToolTip": "Project 11\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T14:50:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsWithdrawScreen.h",
+              "RelativeToolTip": "Project 11\\clsWithdrawScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T04:48:30.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUtil.h",
+              "RelativeDocumentMoniker": "Project 11\\clsUtil.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUtil.h",
+              "RelativeToolTip": "Project 11\\clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T16:43:45.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUser.h",
+              "RelativeDocumentMoniker": "Project 11\\clsUser.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUser.h",
+              "RelativeToolTip": "Project 11\\clsUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T19:16:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsMainScreen.h",
+              "RelativeToolTip": "Project 11\\clsMainScreen.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-21T00:57:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsManageUsersScreen.h",
+              "RelativeToolTip": "Project 11\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-26T16:44:10.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Project 11\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsInputValidate.h",
+              "RelativeToolTip": "Project 11\\clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T21:35:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsListUsersScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsListUsersScreen.h",
+              "RelativeToolTip": "Project 11\\clsListUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T03:27:53.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindUserScreen.h",
+              "RelativeToolTip": "Project 11\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T09:45:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsFindClientScreen.h",
+              "RelativeToolTip": "Project 11\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T05:26:39.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDepositScreen.h",
+              "RelativeToolTip": "Project 11\\clsDepositScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T13:12:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDate.h",
+              "RelativeDocumentMoniker": "Project 11\\clsDate.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsDate.h",
+              "RelativeToolTip": "Project 11\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T21:23:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsClientListScreen.h",
+              "RelativeToolTip": "Project 11\\clsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-21T01:37:32.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Project 11\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsBankClient.h",
+              "RelativeToolTip": "Project 11\\clsBankClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-19T20:07:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Project 11\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T04:17:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "Project 11\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-23T19:52:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Header.h",
+              "RelativeDocumentMoniker": "Project 11\\Header.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Header.h",
+              "RelativeToolTip": "Project 11\\Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-29T20:57:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Project 11\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-27T09:25:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "Project 11\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T05:10:31.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsTransactionScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTransactionScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsTransactionScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTransactionScreen.h",
+              "RelativeToolTip": "Project 11\\clsTransactionScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T12:37:35.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTotalBalancesScreen.h",
+              "RelativeDocumentMoniker": "Project 11\\clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsTotalBalancesScreen.h",
+              "RelativeToolTip": "Project 11\\clsTotalBalancesScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T05:06:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsString.h",
+              "RelativeDocumentMoniker": "Project 11\\clsString.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsString.h",
+              "RelativeToolTip": "Project 11\\clsString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T21:22:49.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsPerson.h",
+              "RelativeDocumentMoniker": "Project 11\\clsPerson.h",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\clsPerson.h",
+              "RelativeToolTip": "Project 11\\clsPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-28T11:00:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Clients.txt",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\.vs\\cours 11\\FileContentIndex\\Clients.txt",
+              "RelativeDocumentMoniker": ".vs\\cours 11\\FileContentIndex\\Clients.txt",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\.vs\\cours 11\\FileContentIndex\\Clients.txt",
+              "RelativeToolTip": ".vs\\cours 11\\FileContentIndex\\Clients.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-27T19:41:31.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Users.txt",
+              "DocumentMoniker": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Users.txt",
+              "RelativeDocumentMoniker": "Project 11\\Users.txt",
+              "ToolTip": "C:\\Users\\majeed\\source\\repos\\Project 11\\Project 11\\Users.txt",
+              "RelativeToolTip": "Project 11\\Users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-28T11:17:02.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
