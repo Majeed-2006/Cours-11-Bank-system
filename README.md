@@ -29,7 +29,6 @@ Audit Logs: Login Register tracking user access history.
 Project Architecture & Modules
 The application follows a Decoupled Screen-Based UI System separated from domain models and data access:
 
-Plaintext
 Bank-System-Project/
 ├── Domain Models & Data:
 │   ├── clsPerson.h / clsBankClient.h / clsUser.h / clsCurrency.h
